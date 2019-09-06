@@ -1,0 +1,31 @@
+{
+	"driver":{
+		"default":{
+			"xbox":{
+				"map0":["forward",6]
+			},
+			"joystick":{
+				"map0":["forward",8]
+			}
+		},
+		"default2":{
+			"xbox":{
+				"map0":["backward",5],
+				"map1":["updown",27]
+			},
+			"joystick":{
+				"map0":["backward",7]
+			}
+		}
+	},
+	"gunner":{
+		"default":{
+			"xbox":{
+				"map0":["up",2]
+			},
+			"joystick":{
+				"map0":["down",1]
+			}
+		}
+	}
+}
